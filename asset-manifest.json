@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chillhaze/goit-react-hw-02-phonebook/static/css/main.08cdf807.chunk.css",
+    "main.js": "/chillhaze/goit-react-hw-02-phonebook/static/js/main.59ab610b.chunk.js",
+    "main.js.map": "/chillhaze/goit-react-hw-02-phonebook/static/js/main.59ab610b.chunk.js.map",
+    "runtime-main.js": "/chillhaze/goit-react-hw-02-phonebook/static/js/runtime-main.bb352974.js",
+    "runtime-main.js.map": "/chillhaze/goit-react-hw-02-phonebook/static/js/runtime-main.bb352974.js.map",
+    "static/js/2.31725f33.chunk.js": "/chillhaze/goit-react-hw-02-phonebook/static/js/2.31725f33.chunk.js",
+    "static/js/2.31725f33.chunk.js.map": "/chillhaze/goit-react-hw-02-phonebook/static/js/2.31725f33.chunk.js.map",
+    "index.html": "/chillhaze/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.08cdf807.chunk.css.map": "/chillhaze/goit-react-hw-02-phonebook/static/css/main.08cdf807.chunk.css.map",
+    "static/js/2.31725f33.chunk.js.LICENSE.txt": "/chillhaze/goit-react-hw-02-phonebook/static/js/2.31725f33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb352974.js",
+    "static/js/2.31725f33.chunk.js",
+    "static/css/main.08cdf807.chunk.css",
+    "static/js/main.59ab610b.chunk.js"
+  ]
+}
